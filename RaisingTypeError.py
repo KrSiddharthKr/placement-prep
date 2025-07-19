@@ -1,0 +1,9 @@
+x=2.0
+y="2"
+z=int(y)
+print(x+y)
+'''
+x+y
+y+z
+x+z
+'''
